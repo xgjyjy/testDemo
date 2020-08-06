@@ -1,0 +1,16 @@
+
+
+#命令写在这里也是等效， 已移动到Podfile_local中，避免git提交冲突等场景
+#plugin 'cocoapods-imy-bin'
+#use_binaries!
+
+source 'https://cdn.cocoapods.org/'
+
+target 'Demo' do
+  pod 'FMDB'
+  pod 'LKDBHelper'
+
+  pod 'YYModel'
+  
+  pod 'YYCache'
+  end
