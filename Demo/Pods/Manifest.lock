@@ -1,0 +1,33 @@
+PODS:
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - LKDBHelper (2.5.3):
+    - LKDBHelper/standard (= 2.5.3)
+  - LKDBHelper/standard (2.5.3):
+    - FMDB
+  - YYCache (1.0.4)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - FMDB
+  - LKDBHelper
+  - YYCache
+  - YYModel
+
+SPEC REPOS:
+  trunk:
+    - FMDB
+    - LKDBHelper
+    - YYCache
+    - YYModel
+
+SPEC CHECKSUMS:
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  LKDBHelper: 26b47fdd6f4c800ef83c478554829ff8a1da20c5
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: 24466b8de5d44722962c3be641446b0de5cc484c
+
+COCOAPODS: 1.9.3
